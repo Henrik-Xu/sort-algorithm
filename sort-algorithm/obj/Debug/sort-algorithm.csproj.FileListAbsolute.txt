@@ -1,0 +1,10 @@
+E:\Respository\C#\sort-algorithm\sort-algorithm\bin\Debug\sort-algorithm.exe.config
+E:\Respository\C#\sort-algorithm\sort-algorithm\bin\Debug\sort-algorithm.exe
+E:\Respository\C#\sort-algorithm\sort-algorithm\bin\Debug\sort-algorithm.pdb
+E:\Respository\C#\sort-algorithm\sort-algorithm\bin\Debug\SortAlgorithm.dll
+E:\Respository\C#\sort-algorithm\sort-algorithm\bin\Debug\SortAlgorithm.pdb
+E:\Respository\C#\sort-algorithm\sort-algorithm\obj\Debug\sort-algorithm.csprojAssemblyReference.cache
+E:\Respository\C#\sort-algorithm\sort-algorithm\obj\Debug\sort-algorithm.csproj.CoreCompileInputs.cache
+E:\Respository\C#\sort-algorithm\sort-algorithm\obj\Debug\sort-algorithm.csproj.CopyComplete
+E:\Respository\C#\sort-algorithm\sort-algorithm\obj\Debug\sort-algorithm.exe
+E:\Respository\C#\sort-algorithm\sort-algorithm\obj\Debug\sort-algorithm.pdb
