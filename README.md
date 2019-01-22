@@ -33,7 +33,7 @@ as binary trees, and heaps. There are many factors to consider when choosing a s
 [HeapSort](https://github.com/Damon-Salvatore/sort-algorithm/blob/master/SortAlgorithm/HeapSortAlgorithm.cs)
 
 <p align="center">
-![HeapSort](https://github.com/Damon-Salvatore/sort-algorithm/blob/master/images/HeapSort.gif)
+<img src="https://github.com/Damon-Salvatore/sort-algorithm/blob/master/images/HeapSort.gif" />
 </p>
 
 [QuickSort](https://github.com/Damon-Salvatore/sort-algorithm/blob/master/SortAlgorithm/QuickSortAlgorithm.cs)
