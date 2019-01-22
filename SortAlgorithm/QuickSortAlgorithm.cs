@@ -49,6 +49,7 @@ namespace SortAlgorithm
                         break;
                     }
                 }
+                // 把锚点交换成正确的位置
                 if (i < right - 1)
                 {
                     SortHelp.Swap(arr,i,right-1);
@@ -77,7 +78,7 @@ namespace SortAlgorithm
             {
                 SortHelp.Swap(arr,right,center);
             }
-
+            // 如果只有三个数，那么前面的步骤已经排序
             if (left + 2 < right)
             {
                 SortHelp.Swap(arr, center, right - 1);
