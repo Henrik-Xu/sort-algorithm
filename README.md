@@ -28,9 +28,7 @@ to consider when choosing a sorting algorithm to use.
 
 ### SelectionSort
 
-[SelectionSort](https://github.com/Damon-Salvatore/sort-algorithm/blob/master/SortAlgorithm/SelectionSortAlgorithm.cs) algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and
-
-putting it at the beginning. The algorithm maintains two subarrays in a given array.
+[SelectionSort](https://github.com/Damon-Salvatore/sort-algorithm/blob/master/SortAlgorithm/SelectionSortAlgorithm.cs) algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
 
 ### ShellSort
 
