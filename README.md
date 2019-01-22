@@ -1,8 +1,8 @@
 # sort-algorithm
 
-A sorting algorithm is an algorithm made up of a series of instructions that takes an array as input, performs
+A sorting algorithm is an algorithm made up of a series of instructions that takes an array as input, performs specified operations
 
-specified operations on the array,sometimes called a list, and outputs a sorted array. Sorting algorithms are
+ on the array,sometimes called a list, and outputs a sorted array. Sorting algorithms are
 
 often taught early in computer science classes as they provide a straightforward way to introduce other key
 
