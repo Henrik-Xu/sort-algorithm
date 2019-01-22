@@ -38,6 +38,5 @@ as binary trees, and heaps. There are many factors to consider when choosing a s
 
 [QuickSort](https://github.com/Damon-Salvatore/sort-algorithm/blob/master/SortAlgorithm/QuickSortAlgorithm.cs)
 
-<p align="center">
+
 ![QuickSort](https://github.com/Damon-Salvatore/sort-algorithm/blob/master/images/QuickSort.gif)
-</p>
